@@ -1,0 +1,604 @@
+{
+  "feedbacks": [
+    {
+      "id": 1,
+      "usuario": "maria_santos",
+      "data": "2024-01-15",
+      "texto": "O chatbot respondeu rapidamente às minhas dúvidas sobre prazos de entrega. Muito satisfeita com a agilidade do atendimento."
+    },
+    {
+      "id": 2,
+      "usuario": "carlos_oliveira",
+      "data": "2024-01-18",
+      "texto": "A IA entendeu perfeitamente minha pergunta sobre políticas de devolução e forneceu todas as informações necessárias de forma clara."
+    },
+    {
+      "id": 3,
+      "usuario": "ana_rodrigues",
+      "data": "2024-01-20",
+      "texto": "Excelente sistema de chatbot! Consegui resolver meu problema sem precisar falar com um atendente humano. Economia de tempo."
+    },
+    {
+      "id": 4,
+      "usuario": "pedro_silva",
+      "data": "2024-01-22",
+      "texto": "O bot poderia ser mais intuitivo em algumas respostas, mas no geral funciona bem. Atendeu minhas necessidades básicas."
+    },
+    {
+      "id": 5,
+      "usuario": "juliana_costa",
+      "data": "2024-01-25",
+      "texto": "Impressionante como o assistente virtual compreende contexto. Fiz várias perguntas relacionadas e ele manteve a coerência nas respostas."
+    },
+    {
+      "id": 6,
+      "usuario": "roberto_alves",
+      "data": "2024-01-28",
+      "texto": "Tive dificuldade inicial, mas após reformular minha pergunta o sistema entendeu e me ajudou adequadamente. Satisfeito."
+    },
+    {
+      "id": 7,
+      "usuario": "fernanda_lima",
+      "data": "2024-02-01",
+      "texto": "A velocidade de resposta do chatbot é impressionante. Muito melhor que aguardar em fila de atendimento telefônico."
+    },
+    {
+      "id": 8,
+      "usuario": "lucas_martins",
+      "data": "2024-02-03",
+      "texto": "Sistema de IA bem treinado. Reconhece diferentes formas de fazer a mesma pergunta e mantém consistência nas respostas."
+    },
+    {
+      "id": 9,
+      "usuario": "patricia_ferreira",
+      "data": "2024-02-05",
+      "texto": "Gostei da interface amigável e das sugestões de perguntas frequentes. Facilita muito a navegação e encontrar informações."
+    },
+    {
+      "id": 10,
+      "usuario": "gabriel_souza",
+      "data": "2024-02-08",
+      "texto": "O bot forneceu links úteis e documentação adicional quando necessário. Muito completo o sistema de suporte automatizado."
+    },
+    {
+      "id": 11,
+      "usuario": "camila_santos",
+      "data": "2024-02-10",
+      "texto": "Tive uma experiência positiva. O assistente entendeu meu problema técnico e me direcionou para a solução correta rapidamente."
+    },
+    {
+      "id": 12,
+      "usuario": "rafael_oliveira",
+      "data": "2024-02-12",
+      "texto": "Bom desempenho do chatbot na maioria das situações. Apenas em questões muito específicas teve dificuldade, mas é aceitável."
+    },
+    {
+      "id": 13,
+      "usuario": "beatriz_carvalho",
+      "data": "2024-02-15",
+      "texto": "A IA conseguiu me ajudar mesmo com minha pergunta sendo um pouco confusa. Impressionante capacidade de interpretação."
+    },
+    {
+      "id": 14,
+      "usuario": "thiago_ribeiro",
+      "data": "2024-02-17",
+      "texto": "Sistema eficiente e disponível 24/7. Consegui resolver minha dúvida fora do horário comercial sem problemas."
+    },
+    {
+      "id": 15,
+      "usuario": "larissa_pereira",
+      "data": "2024-02-20",
+      "texto": "O chatbot melhorou muito comparado à versão anterior. Respostas mais precisas e menos erros de interpretação."
+    },
+    {
+      "id": 16,
+      "usuario": "diego_almeida",
+      "data": "2024-02-22",
+      "texto": "Ótima implementação de IA conversacional. O sistema entende nuances de linguagem e fornece respostas contextualizadas."
+    },
+    {
+      "id": 17,
+      "usuario": "amanda_costa",
+      "data": "2024-02-25",
+      "texto": "Consegui esclarecer todas as minhas dúvidas sobre o produto através do assistente virtual. Processo muito eficiente."
+    },
+    {
+      "id": 18,
+      "usuario": "marcelo_santos",
+      "data": "2024-02-27",
+      "texto": "A qualidade das respostas do bot demonstra um bom treinamento do modelo. Raramente preciso de escalonamento para humano."
+    },
+    {
+      "id": 19,
+      "usuario": "bruno_rodrigues",
+      "data": "2024-03-03",
+      "texto": "Recomendo fortemente este sistema de chat inteligente. Salvou muito do meu tempo e resolveu problemas de forma autônoma."
+    },
+    {
+      "id": 20,
+      "usuario": "carla_fernandes",
+      "data": "2024-03-05",
+      "texto": "A precisão das respostas do chatbot é notável. Sinto que estou conversando com alguém que realmente entende do assunto."
+    },
+    {
+      "id": 21,
+      "usuario": "daniela_lima",
+      "data": "2024-03-10",
+      "texto": "Interface intuitiva e respostas precisas. O assistente virtual superou minhas expectativas em termos de funcionalidade."
+    },
+    {
+      "id": 22,
+      "usuario": "felipe_araujo",
+      "data": "2024-03-12",
+      "texto": "Ótima ferramenta de suporte. A IA compreende o contexto das conversas e mantém histórico relevante das interações."
+    },
+    {
+      "id": 23,
+      "usuario": "renata_souza",
+      "data": "2024-03-15",
+      "texto": "Sistema robusto e confiável. Raramente apresenta falhas e quando não sabe algo, direciona corretamente para atendimento humano."
+    },
+    {
+      "id": 24,
+      "usuario": "vanessa_oliveira",
+      "data": "2024-03-20",
+      "texto": "Chatbot muito bem desenvolvido. A capacidade de processar linguagem natural é surpreendente e as respostas são úteis."
+    },
+    {
+      "id": 25,
+      "usuario": "rodrigo_pereira",
+      "data": "2024-03-22",
+      "texto": "Experiência fluida com o assistente de IA. Resolveu meu problema de configuração em menos de 5 minutos."
+    },
+    {
+      "id": 26,
+      "usuario": "paulo_alves",
+      "data": "2024-03-27",
+      "texto": "O nível de personalização das respostas é excelente. O sistema adapta a linguagem ao tipo de pergunta feita."
+    },
+    {
+      "id": 27,
+      "usuario": "isabela_rocha",
+      "data": "2024-03-29",
+      "texto": "O assistente virtual me ajudou a entender funcionalidades complexas do sistema de forma simples e direta."
+    },
+    {
+      "id": 28,
+      "usuario": "gustavo_mendes",
+      "data": "2024-04-02",
+      "texto": "Adorei a capacidade do chatbot de fornecer exemplos práticos. Isso facilitou muito minha compreensão do produto."
+    },
+    {
+      "id": 29,
+      "usuario": "leticia_barbosa",
+      "data": "2024-04-05",
+      "texto": "A IA demonstrou paciência ao responder minhas várias dúvidas seguidas. Atendimento de qualidade."
+    },
+    {
+      "id": 30,
+      "usuario": "fernando_castro",
+      "data": "2024-04-08",
+      "texto": "Sistema de chatbot eficaz na resolução de problemas. Consegui finalizar minha compra sem complicações."
+    },
+    {
+      "id": 31,
+      "usuario": "adriana_gomes",
+      "data": "2024-04-11",
+      "texto": "O bot ofereceu sugestões relevantes baseadas nas minhas perguntas anteriores. Experiência personalizada."
+    },
+    {
+      "id": 32,
+      "usuario": "ricardo_silva",
+      "data": "2024-04-14",
+      "texto": "Impressionado com a capacidade do assistente de lembrar detalhes de conversas anteriores. Muito inteligente."
+    },
+    {
+      "id": 33,
+      "usuario": "priscila_azevedo",
+      "data": "2024-04-17",
+      "texto": "O chatbot foi crucial para resolver meu problema urgente fora do horário de expediente. Salvou meu dia."
+    },
+    {
+      "id": 34,
+      "usuario": "leandro_martins",
+      "data": "2024-04-20",
+      "texto": "A IA apresentou múltiplas soluções para meu problema, permitindo que eu escolhesse a mais adequada."
+    },
+    {
+      "id": 35,
+      "usuario": "monica_lima",
+      "data": "2024-04-23",
+      "texto": "Sistema de suporte automatizado excelente. Respostas rápidas e precisas economizaram muito do meu tempo."
+    },
+    {
+      "id": 36,
+      "usuario": "vinicius_santos",
+      "data": "2024-04-26",
+      "texto": "O assistente virtual entendeu termos técnicos da minha área e forneceu respostas especializadas."
+    },
+    {
+      "id": 37,
+      "usuario": "natalia_souza",
+      "data": "2024-04-29",
+      "texto": "Chatbot intuitivo e fácil de usar. Mesmo sem experiência prévia, consegui obter as informações que precisava."
+    },
+    {
+      "id": 38,
+      "usuario": "eduardo_costa",
+      "data": "2024-05-02",
+      "texto": "A qualidade do atendimento automatizado supera muitos atendimentos humanos que já experimentei. Parabéns!"
+    },
+    {
+      "id": 39,
+      "usuario": "carolina_pereira",
+      "data": "2024-05-05",
+      "texto": "O bot identificou rapidamente a categoria do meu problema e me direcionou para a solução apropriada."
+    },
+    {
+      "id": 40,
+      "usuario": "fabio_rodrigues",
+      "data": "2024-05-08",
+      "texto": "Sistema de IA conversacional impressionante. As respostas são naturais e não parecem robóticas."
+    },
+    {
+      "id": 41,
+      "usuario": "juliana_alves",
+      "data": "2024-05-11",
+      "texto": "O chatbot me guiou passo a passo no processo de configuração. Muito didático e eficiente."
+    },
+    {
+      "id": 42,
+      "usuario": "marcio_fernandes",
+      "data": "2024-05-14",
+      "texto": "Adorei a capacidade do assistente de adaptar o nível de detalhe das respostas conforme meu conhecimento."
+    },
+    {
+      "id": 43,
+      "usuario": "tatiana_carvalho",
+      "data": "2024-05-17",
+      "texto": "A IA forneceu documentação relevante e tutoriais que complementaram perfeitamente suas explicações."
+    },
+    {
+      "id": 44,
+      "usuario": "sergio_oliveira",
+      "data": "2024-05-20",
+      "texto": "Sistema de chatbot confiável e consistente. Sempre obtive respostas coerentes para as mesmas perguntas."
+    },
+    {
+      "id": 45,
+      "usuario": "aline_santos",
+      "data": "2024-05-23",
+      "texto": "O assistente virtual me ajudou a comparar diferentes opções de produtos de forma objetiva e clara."
+    },
+    {
+      "id": 46,
+      "usuario": "claudio_silva",
+      "data": "2024-05-26",
+      "texto": "Impressionante como o bot consegue interpretar perguntas mal formuladas e ainda fornecer respostas úteis."
+    },
+    {
+      "id": 47,
+      "usuario": "mariana_costa",
+      "data": "2024-05-29",
+      "texto": "A IA demonstrou compreensão de contexto ao longo de toda a conversa. Experiência muito natural."
+    },
+    {
+      "id": 48,
+      "usuario": "alexandre_pereira",
+      "data": "2024-06-01",
+      "texto": "O chatbot ofereceu suporte multilíngue excelente. Consegui obter ajuda em dois idiomas diferentes."
+    },
+    {
+      "id": 49,
+      "usuario": "patricia_gomes",
+      "data": "2024-06-04",
+      "texto": "Sistema de IA bem integrado com outras ferramentas. Consegui resolver tudo em um único lugar."
+    },
+    {
+      "id": 50,
+      "usuario": "roberto_mendes",
+      "data": "2024-06-07",
+      "texto": "O assistente virtual identificou proativamente possíveis dúvidas relacionadas e ofereceu informações adicionais."
+    },
+    {
+      "id": 51,
+      "usuario": "silvia_barbosa",
+      "data": "2024-06-10",
+      "texto": "Chatbot eficiente na resolução de problemas complexos. Impressionada com a capacidade analítica."
+    },
+    {
+      "id": 52,
+      "usuario": "jorge_castro",
+      "data": "2024-06-13",
+      "texto": "A IA forneceu alternativas criativas para contornar limitações do sistema. Muito útil."
+    },
+    {
+      "id": 53,
+      "usuario": "renata_azevedo",
+      "data": "2024-06-16",
+      "texto": "O bot me alertou sobre possíveis problemas futuros baseado na minha situação atual. Prevenção excelente."
+    },
+    {
+      "id": 54,
+      "usuario": "andre_martins",
+      "data": "2024-06-19",
+      "texto": "Sistema de suporte automatizado com respostas bem estruturadas e fáceis de seguir."
+    },
+    {
+      "id": 55,
+      "usuario": "cristina_lima",
+      "data": "2024-06-22",
+      "texto": "O assistente virtual me ajudou a otimizar meu uso do sistema com dicas e boas práticas."
+    },
+    {
+      "id": 56,
+      "usuario": "paulo_santos",
+      "data": "2024-06-25",
+      "texto": "Chatbot com excelente capacidade de aprendizado. Notei melhorias nas respostas ao longo do tempo."
+    },
+    {
+      "id": 57,
+      "usuario": "daniela_souza",
+      "data": "2024-06-28",
+      "texto": "A IA demonstrou empatia ao lidar com minha frustração inicial. Atendimento humanizado."
+    },
+    {
+      "id": 58,
+      "usuario": "henrique_costa",
+      "data": "2024-07-01",
+      "texto": "Sistema de chatbot robusto que lida bem com múltiplas perguntas simultâneas."
+    },
+    {
+      "id": 59,
+      "usuario": "lucia_pereira",
+      "data": "2024-07-04",
+      "texto": "O assistente forneceu comparações detalhadas entre diferentes funcionalidades do produto."
+    },
+    {
+      "id": 60,
+      "usuario": "marcos_rodrigues",
+      "data": "2024-07-07",
+      "texto": "Impressionado com a velocidade e precisão das respostas do chatbot. Atendimento de primeira."
+    },
+    {
+      "id": 61,
+      "usuario": "fernanda_alves",
+      "data": "2024-07-10",
+      "texto": "A IA conseguiu explicar conceitos complexos de forma simples e acessível."
+    },
+    {
+      "id": 62,
+      "usuario": "rafael_fernandes",
+      "data": "2024-07-13",
+      "texto": "Sistema de suporte inteligente que antecipa necessidades e oferece soluções proativas."
+    },
+    {
+      "id": 63,
+      "usuario": "amanda_carvalho",
+      "data": "2024-07-16",
+      "texto": "O chatbot me ajudou a descobrir funcionalidades que eu não sabia que existiam. Muito útil."
+    },
+    {
+      "id": 64,
+      "usuario": "carlos_oliveira",
+      "data": "2024-07-19",
+      "texto": "Assistente virtual com ótima memória contextual. Não precisei repetir informações."
+    },
+    {
+      "id": 65,
+      "usuario": "julia_santos",
+      "data": "2024-07-22",
+      "texto": "A IA forneceu tutoriais interativos que facilitaram muito o aprendizado do sistema."
+    },
+    {
+      "id": 66,
+      "usuario": "diego_silva",
+      "data": "2024-07-25",
+      "texto": "Chatbot eficiente na triagem de problemas. Direcionou-me rapidamente para a solução correta."
+    },
+    {
+      "id": 67,
+      "usuario": "beatriz_costa",
+      "data": "2024-07-28",
+      "texto": "O sistema de IA demonstrou flexibilidade ao adaptar respostas para diferentes níveis de usuário."
+    },
+    {
+      "id": 68,
+      "usuario": "gustavo_pereira",
+      "data": "2024-07-31",
+      "texto": "Assistente virtual com respostas consistentes e confiáveis. Nunca me deu informação errada."
+    },
+    {
+      "id": 69,
+      "usuario": "larissa_gomes",
+      "data": "2024-08-03",
+      "texto": "O chatbot ofereceu insights valiosos sobre melhores práticas de uso do sistema."
+    },
+    {
+      "id": 70,
+      "usuario": "felipe_mendes",
+      "data": "2024-08-06",
+      "texto": "A IA conseguiu entender contexto implícito nas minhas perguntas. Impressionante."
+    },
+    {
+      "id": 71,
+      "usuario": "camila_barbosa",
+      "data": "2024-08-09",
+      "texto": "Sistema de suporte automatizado que realmente entende as necessidades do usuário."
+    },
+    {
+      "id": 72,
+      "usuario": "bruno_castro",
+      "data": "2024-08-12",
+      "texto": "O assistente virtual me guiou por processos complexos de forma clara e organizada."
+    },
+    {
+      "id": 73,
+      "usuario": "vanessa_azevedo",
+      "data": "2024-08-15",
+      "texto": "Chatbot com excelente capacidade de síntese. Respostas objetivas e completas."
+    },
+    {
+      "id": 74,
+      "usuario": "thiago_martins",
+      "data": "2024-08-18",
+      "texto": "A IA forneceu exemplos práticos que facilitaram muito minha compreensão do produto."
+    },
+    {
+      "id": 75,
+      "usuario": "priscila_lima",
+      "data": "2024-08-21",
+      "texto": "Sistema de chatbot que aprende com feedback. Notei melhorias significativas ao longo do tempo."
+    },
+    {
+      "id": 76,
+      "usuario": "eduardo_santos",
+      "data": "2024-08-24",
+      "texto": "O assistente virtual identificou rapidamente o problema e ofereceu múltiplas soluções viáveis."
+    },
+    {
+      "id": 77,
+      "usuario": "carolina_souza",
+      "data": "2024-08-27",
+      "texto": "Chatbot eficiente na gestão de expectativas. Sempre informou prazos e limitações claramente."
+    },
+    {
+      "id": 78,
+      "usuario": "leandro_costa",
+      "data": "2024-08-30",
+      "texto": "A IA demonstrou conhecimento profundo sobre o produto e suas funcionalidades."
+    },
+    {
+      "id": 79,
+      "usuario": "natalia_pereira",
+      "data": "2024-09-02",
+      "texto": "Sistema de suporte inteligente que economizou horas do meu tempo com respostas precisas."
+    },
+    {
+      "id": 80,
+      "usuario": "vinicius_rodrigues",
+      "data": "2024-09-05",
+      "texto": "O assistente virtual me ajudou a resolver um problema que outros canais não conseguiram."
+    },
+    {
+      "id": 81,
+      "usuario": "patricia_alves",
+      "data": "2024-09-08",
+      "texto": "Chatbot com interface amigável e respostas bem formatadas. Fácil de entender."
+    },
+    {
+      "id": 82,
+      "usuario": "fabio_fernandes",
+      "data": "2024-09-11",
+      "texto": "A IA forneceu documentação técnica relevante sem sobrecarregar com informação desnecessária."
+    },
+    {
+      "id": 83,
+      "usuario": "aline_carvalho",
+      "data": "2024-09-14",
+      "texto": "Sistema de chatbot que realmente entende intenção do usuário, não apenas palavras-chave."
+    },
+    {
+      "id": 84,
+      "usuario": "sergio_oliveira",
+      "data": "2024-09-17",
+      "texto": "O assistente virtual me surpreendeu positivamente com sugestões criativas de solução."
+    },
+    {
+      "id": 85,
+      "usuario": "juliana_santos",
+      "data": "2024-09-20",
+      "texto": "Chatbot eficaz na resolução de dúvidas sobre políticas e procedimentos da empresa."
+    },
+    {
+      "id": 86,
+      "usuario": "alexandre_silva",
+      "data": "2024-09-23",
+      "texto": "A IA demonstrou paciência ao responder minhas perguntas repetitivas sobre o mesmo tema."
+    },
+    {
+      "id": 87,
+      "usuario": "mariana_costa",
+      "data": "2024-09-26",
+      "texto": "Sistema de suporte automatizado que combina eficiência com qualidade nas respostas."
+    },
+    {
+      "id": 88,
+      "usuario": "claudio_pereira",
+      "data": "2024-09-29",
+      "texto": "O assistente virtual me ajudou a comparar diferentes planos e escolher o mais adequado."
+    },
+    {
+      "id": 89,
+      "usuario": "tatiana_gomes",
+      "data": "2024-10-02",
+      "texto": "Chatbot com respostas personalizadas baseadas no meu histórico de interações."
+    },
+    {
+      "id": 90,
+      "usuario": "marcio_mendes",
+      "data": "2024-10-05",
+      "texto": "A IA forneceu insights sobre funcionalidades avançadas que melhoraram minha produtividade."
+    },
+    {
+      "id": 91,
+      "usuario": "cristina_barbosa",
+      "data": "2024-10-08",
+      "texto": "Sistema de chatbot confiável que funciona perfeitamente mesmo em horários de pico."
+    },
+    {
+      "id": 92,
+      "usuario": "roberto_castro",
+      "data": "2024-10-11",
+      "texto": "O assistente virtual me ajudou a otimizar configurações para melhor desempenho do sistema."
+    },
+    {
+      "id": 93,
+      "usuario": "silvia_azevedo",
+      "data": "2024-10-14",
+      "texto": "Chatbot eficiente na identificação de problemas técnicos e sugestão de soluções rápidas."
+    },
+    {
+      "id": 94,
+      "usuario": "andre_martins",
+      "data": "2024-10-17",
+      "texto": "A IA demonstrou conhecimento atualizado sobre as últimas funcionalidades do produto."
+    },
+    {
+      "id": 95,
+      "usuario": "lucia_lima",
+      "data": "2024-10-20",
+      "texto": "Sistema de suporte inteligente que me guiou por todo processo de migração sem problemas."
+    },
+    {
+      "id": 96,
+      "usuario": "jorge_santos",
+      "data": "2024-10-23",
+      "texto": "O assistente virtual forneceu análises detalhadas que me ajudaram na tomada de decisão."
+    },
+    {
+      "id": 97,
+      "usuario": "monica_souza",
+      "data": "2024-10-26",
+      "texto": "Chatbot com respostas rápidas e precisas. Experiência de suporte excepcional."
+    },
+    {
+      "id": 98,
+      "usuario": "joana_silva",
+      "data": "2024-03-01",
+      "texto": "Pizza de calabresa está com preço ótimo hoje! Vocês entregam no bairro Jardim América?"
+    },
+    {
+      "id": 99,
+      "usuario": "andre_costa",
+      "data": "2024-03-08",
+      "texto": "O MELHOR INVESTIMENTO 2024!!! GANHE R$5000 POR DIA TRABALHANDO DE CASA!!! CLIQUE AQUI: bitly/investimento"
+    },
+    {
+      "id": 100,
+      "usuario": "mauricio_santos",
+      "data": "2024-03-17",
+      "texto": "gente alguem sabe onde ta passando o jogo do palmeiras hoje?? ta dificil de achar transmissao gratis"
+    }
+  ]
+}
